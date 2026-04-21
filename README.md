@@ -4,7 +4,7 @@
 
 I build enterprise-grade mobile products with **Flutter** & **Dart**, and help teams keep their codebases lean, well-architected, and maintainable. Over 4 years of commercial experience and a path from Junior Developer to Team Leader.
 
-- 🧠 Core stack: Flutter, Dart, Add-to-App, Method Channels, Mapbox/MapLibre, dart:ffi
+- 🧠 Core stack: Flutter, Dart, Mobile, Web, Add-to-App, Method Channels, Mapbox/MapLibre, dart:ffi, dart:js_interop
 - 🛠️ Also comfortable with: Python, JavaScript, TypeScript, Java, C#, Kotlin, Swift, Shell
 - 👥 Experienced in team leadership, mentoring, code reviews, enforcing code quality standards, developing scalable architectures
 - 🌍 Languages: Polish (native), English, German
