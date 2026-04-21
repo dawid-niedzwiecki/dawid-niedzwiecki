@@ -35,7 +35,7 @@ Integrated native iOS and Android applications with Flutter using the **add-to-a
 - Integrated the application with **ID.Poznań** authentication (OpenID Connect)
 - Direct communication with the client
 
-`Flutter` `Dart` `Android` `iOS` `OpenID Connect` `Null Safety` `Release`
+`Flutter` `Dart` `Android` `iOS` `OpenID Connect` `Null Safety` `Release` `Ownership`
 
 ---
 
