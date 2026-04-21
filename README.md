@@ -1,4 +1,4 @@
-# Hi, I'm Dawid Niedźwiecki 👋
+# Hi, I'm Dawid! 👋
 
 **Senior Flutter Developer @ [LeanCode](https://leancode.co/)** — based in Poznań, Poland.
 
