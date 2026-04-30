@@ -1,6 +1,6 @@
 # Hi, I'm Dawid! 👋
 
-**Senior Flutter Developer @ [LeanCode](https://leancode.co/)** — based in Poznań, Poland.
+**Senior Flutter Developer @ [LeanCode](https://leancode.co/)** based in Poznań, Poland.
 
 I build enterprise-grade mobile products with **Flutter** & **Dart**, and help teams keep their codebases lean, well-architected, and maintainable. Over 4 years of commercial experience and a path from Junior Developer to Team Leader.
 
